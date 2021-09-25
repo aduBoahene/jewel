@@ -1,6 +1,4 @@
 import React from 'react'
-import ban from './banner.jpg'
-
 
 export default function Header() {
     return (

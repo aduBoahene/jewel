@@ -1,5 +1,4 @@
 import React from 'react'
-import ring from "./ring.jpg"
 
 export default function Hero() {
     return (

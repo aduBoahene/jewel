@@ -5,7 +5,6 @@ import ban from './banner.jpg'
 import banner from './yd.jpg'
 import Services from './Services';
 import Footer from './Footer';
-import Bottom from './Bottom';
 
 
 
